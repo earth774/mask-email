@@ -24,6 +24,14 @@
   ],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/earth774/mask-email.git"
+  },
+  "bugs": {
+    "url": "https://github.com/earth774/mask-email/issues"
+  },
+  "homepage": "https://github.com/earth774/mask-email#readme",
   "type": "module",
   "devDependencies": {
     "@types/node": "^24.10.1",
